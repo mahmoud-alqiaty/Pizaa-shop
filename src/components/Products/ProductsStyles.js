@@ -59,7 +59,7 @@ export const ProductItem = styled.div `
         padding: 0 15px;
         margin-bottom: 45px;
     }
-    @media screen and (max-width: 405px){
+    @media screen and (max-width: 450px){
         width: 100%
     }
 `
